@@ -1,0 +1,19 @@
+{
+  "name": "relearn_frontend",
+  "version": "1.0.0",
+  "description": "重构前端",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
