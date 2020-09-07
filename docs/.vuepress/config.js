@@ -86,7 +86,9 @@ module.exports = {
         title: '开篇词+学习路线+架构图',
         collapsable: false,
         children: [
-          ''
+          '',
+          'child1',
+          'child2'
         ]
       }],
       '/catalog/section2/': [{
