@@ -39,90 +39,38 @@ module.exports = {
   themeConfig: {
     lastUpdated: '上次更新',
     nav: [{
-        text: '前端',
-        items: [{
-            text: '重构前端',
-            link: 'http://localhost:8082/relearn-frontend'
-          },
-          {
-            text: 'React',
-            link: '/guide/guide2/'
-          },
-          {
-            text: 'ReactNative',
-            link: '/guide/guide3/'
-          }
-        ]
+        text: '专栏介绍',
+        link: '/introduce/'
       },
       {
-        text: '后端',
+        text: '专栏目录',
         items: [{
-            text: '办公协同',
-            link: '/guide/guide1/'
+            text: '开篇词+学习路线+架构图 (3讲)',
+            link: '/catalog/section1/'
           },
           {
-            text: '集中化ERP',
-            link: '/guide/guide2/'
+            text: '模块一：JavaScript (15讲)',
+            link: '/catalog/section2/'
           },
           {
-            text: '经营管理一体化',
-            link: '/guide/guide3/'
+            text: '模块二：HTML和CSS (16讲)',
+            link: '/catalog/section3/'
           },
           {
-            text: '人力系统',
-            link: '/guide/guide4/'
+            text: '模块三：浏览器实现原理与API (9讲)',
+            link: '/catalog/section4/'
           },
           {
-            text: '党建纪检',
-            link: '/guide/guide5/'
-          }
-        ]
-      },
-      {
-        text: 'iOS',
-        items: [{
-            text: '办公协同',
-            link: '/guide/guide1/'
+            text: '模块四：前端综合应用 (5讲)',
+            link: '/catalog/section5/'
           },
           {
-            text: '集中化ERP',
-            link: '/guide/guide2/'
+            text: '特别加餐 (10讲)',
+            link: '/catalog/section6/'
           },
           {
-            text: '经营管理一体化',
-            link: '/guide/guide3/'
-          },
-          {
-            text: '人力系统',
-            link: '/guide/guide4/'
-          },
-          {
-            text: '党建纪检',
-            link: '/guide/guide5/'
-          }
-        ]
-      },
-      {
-        text: 'Android',
-        items: [{
-            text: '办公协同',
-            link: '/guide/guide1/'
-          },
-          {
-            text: '集中化ERP',
-            link: '/guide/guide2/'
-          },
-          {
-            text: '经营管理一体化',
-            link: '/guide/guide3/'
-          },
-          {
-            text: '人力系统',
-            link: '/guide/guide4/'
-          },
-          {
-            text: '党建纪检',
-            link: '/guide/guide5/'
+            text: '尾声 (1讲)',
+            link: '/catalog/section7/'
           }
         ]
       },
@@ -134,36 +82,50 @@ module.exports = {
     navbar: true,
     sidebar: {
       collapsable: false,
-      '/guide/guide1/': [{
-        title: '办公协同',
+      '/catalog/section1/': [{
+        title: '开篇词+学习路线+架构图',
         collapsable: false,
         children: [
           ''
         ]
       }],
-      '/guide/guide2/': [{
-        title: '集中化ERP',
+      '/catalog/section2/': [{
+        title: '模块一：JavaScript',
         collapsable: false,
         children: [
           ''
         ]
       }],
-      '/guide/guide3/': [{
-        title: '经营管理一体化',
+      '/catalog/section3/': [{
+        title: '模块二：HTML和CSS',
         collapsable: false,
         children: [
           ''
         ]
       }],
-      '/guide/guide4/': [{
-        title: '人力系统',
+      '/catalog/section4/': [{
+        title: '模块三：浏览器实现原理与API',
         collapsable: false,
         children: [
           ''
         ]
       }],
-      '/guide/guide5/': [{
-        title: '党建纪检',
+      '/catalog/section5/': [{
+        title: '模块四：前端综合应用',
+        collapsable: false,
+        children: [
+          ''
+        ]
+      }],
+      '/catalog/section6/': [{
+        title: '特别加餐',
+        collapsable: false,
+        children: [
+          ''
+        ]
+      }],
+      '/catalog/section7/': [{
+        title: '尾声',
         collapsable: false,
         children: [
           ''
