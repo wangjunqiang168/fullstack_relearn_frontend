@@ -95,35 +95,85 @@ module.exports = {
         title: '模块一：JavaScript',
         collapsable: false,
         children: [
-          ''
+          '',
+          'child1',
+          'child2',
+          'child3',
+          'child4',
+          'child5',
+          'child6',
+          'child7',
+          'child8',
+          'child9',
+          'child10',
+          'child11',
+          'child12',
+          'child13',
+          'child14'
         ]
       }],
       '/catalog/section3/': [{
         title: '模块二：HTML和CSS',
         collapsable: false,
         children: [
-          ''
+          '',
+          'child1',
+          'child2',
+          'child3',
+          'child4',
+          'child5',
+          'child6',
+          'child7',
+          'child8',
+          'child9',
+          'child10',
+          'child11',
+          'child12',
+          'child13',
+          'child14',
+          'child15'
         ]
       }],
       '/catalog/section4/': [{
         title: '模块三：浏览器实现原理与API',
         collapsable: false,
         children: [
-          ''
+          '',
+          'child1',
+          'child2',
+          'child3',
+          'child4',
+          'child5',
+          'child6',
+          'child7',
+          'child8'
         ]
       }],
       '/catalog/section5/': [{
         title: '模块四：前端综合应用',
         collapsable: false,
         children: [
-          ''
+          '',
+          'child1',
+          'child2',
+          'child3',
+          'child4'
         ]
       }],
       '/catalog/section6/': [{
         title: '特别加餐',
         collapsable: false,
         children: [
-          ''
+          '',
+          'child1',
+          'child2',
+          'child3',
+          'child4',
+          'child5',
+          'child6',
+          'child7',
+          'child8',
+          'child9'
         ]
       }],
       '/catalog/section7/': [{
