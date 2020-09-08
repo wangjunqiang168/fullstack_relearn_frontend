@@ -171,9 +171,7 @@ module.exports = {
           'child4',
           'child5',
           'child6',
-          'child7',
-          'child8',
-          'child9'
+          'child7'
         ]
       }],
       '/catalog/section7/': [{
