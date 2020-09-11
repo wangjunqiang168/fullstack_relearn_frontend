@@ -45,31 +45,31 @@ module.exports = {
       {
         text: '专栏目录',
         items: [{
-            text: '开篇词+学习路线+架构图 (3讲)',
+            text: '开篇词+学习路线+架构图',
             link: '/catalog/section1/'
           },
           {
-            text: '模块一：JavaScript (15讲)',
+            text: '模块一：JavaScript',
             link: '/catalog/section2/'
           },
           {
-            text: '模块二：HTML和CSS (16讲)',
+            text: '模块二：HTML5和CSS3',
             link: '/catalog/section3/'
           },
           {
-            text: '模块三：浏览器实现原理与API (9讲)',
+            text: '模块三：浏览器实现原理与API',
             link: '/catalog/section4/'
           },
           {
-            text: '模块四：前端综合应用 (5讲)',
+            text: '模块四：前端综合应用',
             link: '/catalog/section5/'
           },
           {
-            text: '特别加餐 (10讲)',
+            text: '特别加餐',
             link: '/catalog/section6/'
           },
           {
-            text: '尾声 (1讲)',
+            text: '尾声',
             link: '/catalog/section7/'
           }
         ]
@@ -113,7 +113,7 @@ module.exports = {
         ]
       }],
       '/catalog/section3/': [{
-        title: '模块二：HTML和CSS',
+        title: '模块二：HTML5和CSS3',
         collapsable: false,
         children: [
           '',

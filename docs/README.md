@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /lo_logo.png
-heroText: 重构你的前端知识体系
-tagline:  作者：程劭非（winter）前手机淘宝前端负责人
+#heroImage: /lo_logo.png
+heroText: 重构前端知识体系
+tagline:  部分摘自《重学前端》作者：程劭非（winter）
 
 actionText: 快速学习 →
-actionLink: /guide/guide2/
+actionLink: /catalog/section1/
 features:
 - title: 你将获得
   details: 告别零散技术点，搭建前端知识体系；打通JS、HTML、CSS、浏览器4大脉络；40+前端难点完全解答；大厂前端工程实战演练。
