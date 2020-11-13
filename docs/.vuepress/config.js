@@ -1,6 +1,6 @@
 module.exports = {
   title: '重构前端',
-  base: '/relearn-frontend/',
+  base: '/rebuild-frontend/',
   port: 8082,
   description: '前后端技术分享',
   markdown: {

@@ -4,7 +4,7 @@ home: true
 heroText: 重构前端知识体系
 tagline:  部分摘自《重学前端》作者：程劭非（winter）
 
-actionText: 快速学习 →
+actionText: 快速开始 →
 actionLink: /catalog/section1/
 features:
 - title: 你将获得
